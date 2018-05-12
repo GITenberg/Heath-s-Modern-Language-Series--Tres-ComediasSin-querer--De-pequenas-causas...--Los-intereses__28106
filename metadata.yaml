@@ -1,0 +1,43 @@
+_repo: Heath-s-Modern-Language-Series--Tres-ComediasSin-querer--De-pequenas-causas...--Los-intereses__28106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benavente, Jacinto
+    aliases:
+    - Benavente y Martínez, Jacinto
+    - Benavente y Martinez, Jacinto
+    - Martínez, Jacinto Benavente y
+    - Benevente, Jacinto
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '33140'
+    url: http://www.gutenberg.org/2009/agents/33140
+    wikipedia: http://en.wikipedia.org/wiki/Jacinto_Benavente
+  editor:
+    agent_name: Van Horne, John
+    alias: Horne, John van
+    birthdate: 1889
+    deathdate: 1959
+    gutenberg_agent_id: '33145'
+    url: http://www.gutenberg.org/2009/agents/33145
+description: ''
+gutenberg_issued: '2009-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28106'
+  lccn: '18019905'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish drama'
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+title: 'Heath''s Modern Language Series: Tres Comedias
+
+  Sin querer; De pequenas causas...; Los intereses creados'
+url: http://www.gutenberg.org/ebooks/28106
