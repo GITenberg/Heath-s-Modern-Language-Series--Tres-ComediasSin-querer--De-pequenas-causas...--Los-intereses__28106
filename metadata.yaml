@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '33145'
     url: http://www.gutenberg.org/2009/agents/33145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28106#Heath-s-Modern-Language-Series--Tres-ComediasSin-querer--De-pequenas-causas...--Los-intereses_
 gutenberg_issued: '2009-02-17'
 gutenberg_type: Text
 identifiers:
